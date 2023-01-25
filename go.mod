@@ -1,3 +1,3 @@
-module github.com/vkcIarke/go-template/v2
+module github.com/vkcIarke/go-template
 
 go 1.19
